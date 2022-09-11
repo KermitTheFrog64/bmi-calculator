@@ -1,0 +1,42 @@
+.frm {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.fld {
+    background: #FFFFFF;
+    border: 1px solid #CBD5E0;
+    width: 100%;
+    font-size: 1.2rem;
+    padding: 15px 4px;
+    margin: 8px 0;
+    border-radius: 8px;
+}
+
+.btnSt {
+    padding: 15px 0;
+    background-color: green;
+    color: #fff;
+    border: 1px solid #333;
+    border-radius: 8px;
+    cursor: pointer;
+    display: block;
+    width: 100%;
+    margin: 8px 0;
+    font-size: 1.2rem;
+}
+
+.btnRt {
+    background-color: #EDEDED;
+    color: black;
+    padding: 15px 0;
+    border: 1px solid #fff;
+    border-radius: 8px;
+    cursor: pointer;
+    display: block;
+    width: 100%;
+    margin: 8px 0;
+    font-size: 1.2rem;
+}
